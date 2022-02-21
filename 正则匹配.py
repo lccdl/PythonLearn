@@ -12,8 +12,5 @@ def findPinStr():
         if rst: 
             print('match:%s' % (rst.group()))
 
-#
-def 
-
 
 findPinStr()
